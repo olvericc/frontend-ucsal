@@ -1,0 +1,19 @@
+body  {
+    font-family: Inter, Arial, Helvetica, sans-serif;
+}
+
+h1 a {
+    background: url("../assets/h1_display_hover.png") no-repeat;
+    display: block;
+    width: 150px;
+    height: 50px;
+    padding-left: 60px;
+    /* text style*/
+    color: #577a37;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-top: 10px;
+    text-decoration: none;
+}
