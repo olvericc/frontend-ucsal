@@ -6,6 +6,7 @@ body
 header 
 {
     background-color: #aaaaaa;
+    padding: 30px 10px 10px 0px;
 }
 
 header h1 a 
@@ -152,4 +153,37 @@ nav#main ul li a
 nav#main ul li a:hover
 {
     color: #00CD6B;
+}
+
+section#banner
+{
+    clear: both;
+    padding-top: 117px;
+    background: url("../assets/bg_banner.png") no-repeat top center;
+    text-align: center;
+}
+
+section#banner img
+{
+    width: 830px;
+    height: 472px;
+}
+
+@media only screen and (max-width: 768px) 
+{
+    header
+    {
+        padding: 0 0 0 0;
+    }
+
+    section#banner
+    {
+        padding-top: 40px;
+    }
+
+    section#banner img
+    {
+        width: 100%;
+        height: auto;
+    }
 }
