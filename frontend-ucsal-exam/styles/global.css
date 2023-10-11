@@ -1,0 +1,29 @@
+body {
+    background-color: #c8c8c8;
+    margin: 0;
+    line-height: normal;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.ml-250 {
+    margin-left: 250px;
+}
+
+:root {
+    --font-poppins: Poppins;
+
+    --font-size-base: 16px;
+    --font-size-4xl: 23px;
+    --font-size-17xl: 36px;
+    --font-size-5xl: 24px;
+
+    --color-black: #000;
+    --color-white: #fff;
+    --color-crimson: #df2935;
+
+    --padding-7xs: 6px;
+    --padding-smi: 13px;
+
+    --br-7xs: 6px;
+}

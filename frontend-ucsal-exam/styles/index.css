@@ -1,0 +1,464 @@
+.contact {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 133px;
+    height: 39px;
+}
+.about-us {
+    margin: 0;
+}
+.about-us-contact-container {
+    position: absolute;
+    top: 44px;
+    left: 18px;
+    font-size: var(--font-size-base);
+    text-align: left;
+    display: inline-block;
+    width: 172px;
+    height: 105px;
+}
+.contact-parent,
+.footer-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 190px;
+    height: 149px;
+}
+.footer-inner {
+    top: 11px;
+    left: 339px;
+    text-align: center;
+    font-size: var(--font-size-5xl);
+}
+.sales-department {
+    margin: 0;
+    font-weight: 500;
+}
+.monday-saturday {
+    margin: 0;
+    font-weight: 300;
+}
+.sales-department-monday-container {
+    position: absolute;
+    top: 41px;
+    left: 0;
+}
+.opening-hours,
+.services-department-everday-container {
+    position: absolute;
+    top: 122px;
+    left: 0;
+}
+.opening-hours {
+    top: 0;
+    font-size: var(--font-size-5xl);
+    font-weight: 500;
+}
+.logo-1-icon,
+.sales-department-monday-satu-parent {
+    position: absolute;
+    top: 11px;
+    left: 594px;
+    width: 226px;
+    height: 170px;
+}
+.logo-1-icon {
+    top: 0;
+    left: 0;
+    width: 190px;
+    height: 50px;
+    object-fit: cover;
+}
+.lorem-ipsum-is {
+    position: absolute;
+    top: 59px;
+    left: 0;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    width: 274px;
+    height: 144px;
+}
+.follow-us-on,
+.logo-1-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.logo-1-parent {
+    width: 274px;
+    height: 203px;
+}
+.follow-us-on {
+    font-weight: 500;
+}
+.facebook-png-0,
+.instagram-png-0,
+.youtube-png-0 {
+    position: absolute;
+    top: 44px;
+    left: 0;
+    width: 32px;
+    height: 30px;
+    object-fit: cover;
+}
+.instagram-png-0,
+.youtube-png-0 {
+    top: 43px;
+    left: 43px;
+    width: 36px;
+    height: 31px;
+}
+.youtube-png-0 {
+    top: 44px;
+    left: 91px;
+    width: 31px;
+    height: 30px;
+}
+.follow-us-on-parent {
+    position: absolute;
+    top: 11px;
+    left: 885px;
+    width: 160px;
+    height: 74px;
+    font-size: var(--font-size-5xl);
+}
+.copyright-bmw-all {
+    position: absolute;
+    top: 221px;
+    left: 145px;
+    display: flex;
+    font-weight: 300;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 820px;
+    height: 90px;
+}
+.footer {
+    position: absolute;
+    top: 2202px;
+    left: 198px;
+    width: 1045px;
+    height: 311px;
+}
+.top-news-blogs {
+    position: absolute;
+    top: 0;
+    left: 392px;
+    font-size: var(--font-size-17xl);
+    font-weight: 500;
+}
+.bmw-m-1000-rr-debuts-india-12-icon,
+.bmw-r-1250-gs-adventure-1-icon {
+    position: absolute;
+    top: 119px;
+    width: 416px;
+    height: 227px;
+    object-fit: cover;
+}
+.bmw-m-1000-rr-debuts-india-12-icon {
+    left: 0;
+    border-radius: 18px;
+}
+.bmw-r-1250-gs-adventure-1-icon {
+    left: 475px;
+}
+.read-more {
+    position: relative;
+    font-weight: 500;
+}
+.read-more-container,
+.read-more-wrapper,
+.read-wrapper {
+    position: absolute;
+    top: 466px;
+    left: 116px;
+    border-radius: var(--br-7xs);
+    border: 2px solid var(--color-crimson);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-7xs) var(--padding-smi);
+}
+.read-more-container,
+.read-wrapper {
+    left: 611px;
+}
+.read-wrapper {
+    left: 1045px;
+}
+.bmw-r-1250-container {
+    position: absolute;
+    top: 373px;
+    left: 492px;
+    font-size: var(--font-size-5xl);
+    font-weight: 500;
+}
+.bmw-r-1250-gs-adventure-2-icon {
+    position: absolute;
+    top: 119px;
+    left: 950px;
+    width: 160px;
+    height: 227px;
+    object-fit: cover;
+}
+.bmw-r-310-container1 {
+    line-break: anywhere;
+    width: 100%;
+}
+.bmw-m-1000-container,
+.bmw-r-310-container {
+    position: absolute;
+    font-size: var(--font-size-5xl);
+    font-weight: 500;
+}
+.bmw-r-310-container {
+    top: 363px;
+    left: 956px;
+    display: flex;
+    align-items: center;
+    width: 160px;
+}
+.bmw-m-1000-container {
+    top: 373px;
+    left: 0;
+}
+.blog,
+.products-child {
+    position: absolute;
+    top: 1610px;
+    left: 165px;
+    width: 1116px;
+    height: 502px;
+}
+.products-child {
+    top: 0;
+    left: 0;
+    /*background-color: rgba(217, 217, 217, 0.25);*/
+    width: 1441px;
+    height: 591px;
+}
+.featured-products {
+    position: absolute;
+    top: 58px;
+    left: 549px;
+    font-size: var(--font-size-17xl);
+    font-weight: 500;
+}
+.products-inner,
+.products-item,
+.rectangle-icon {
+    position: absolute;
+    top: 172px;
+    left: 533px;
+    width: 326px;
+    height: 300px;
+    object-fit: cover;
+}
+.products-inner,
+.rectangle-icon {
+    left: 922px;
+    width: 302px;
+    height: 278px;
+}
+.rectangle-icon {
+    top: 179px;
+    left: 103px;
+    width: 368px;
+    height: 339px;
+}
+.arai-777-helmet,
+.bmw-riding-jacket,
+.gopan-tyres-for {
+    position: absolute;
+    top: 501px;
+    left: 148px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 323px;
+}
+.arai-777-helmet,
+.gopan-tyres-for {
+    left: 534px;
+}
+.gopan-tyres-for {
+    left: 879px;
+}
+.products {
+    position: absolute;
+    top: 929px;
+    left: -1px;
+    width: 1441px;
+    height: 591px;
+    text-align: center;
+    font-size: var(--font-size-4xl);
+}
+.banner-child,
+.banner-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 840px;
+}
+.banner-child {
+    object-fit: cover;
+}
+.banner-item {
+    background: linear-gradient(180deg, #000, transparent);
+}
+.book-now-wrapper,
+.test-a-ride-wrapper {
+    position: absolute;
+    top: 0;
+    border-radius: var(--br-7xs);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-7xs) var(--padding-smi);
+}
+.book-now-wrapper {
+    left: 0;
+    background-color: var(--color-crimson);
+}
+.test-a-ride-wrapper {
+    left: 141px;
+    border: 2px solid var(--color-crimson);
+}
+.frame-parent {
+    position: absolute;
+    top: 477px;
+    left: 595px;
+    width: 251px;
+    height: 36px;
+}
+.the-best-way {
+    position: absolute;
+    top: 290px;
+    left: 316px;
+    font-size: 48px;
+}
+.banner-inner,
+.lorem-ipsum-is1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 840px;
+}
+.lorem-ipsum-is1 {
+    top: 368px;
+    left: 325px;
+    font-weight: 300;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 790px;
+    height: 83px;
+}
+.banner,
+.logo-1-icon1 {
+    position: absolute;
+    top: 0;
+}
+.banner {
+    left: 0;
+    width: 1440px;
+    height: 840px;
+    color: var(--color-white);
+}
+.logo-1-icon1 {
+    left: 165.18px;
+    width: 190px;
+    height: 50px;
+    object-fit: cover;
+}
+.header-child {
+    position: absolute;
+    top: 77.12px;
+    left: 0.18px;
+    width: 1440px;
+    height: 3.38px;
+}
+.bikes,
+.blogs,
+.products1,
+.services {
+    position: absolute;
+    top: 16px;
+    left: 788.18px;
+    font-weight: 500;
+}
+.blogs,
+.products1,
+.services {
+    left: 976.18px;
+}
+.products1,
+.services {
+    left: 1057.18px;
+}
+.products1 {
+    left: 867.18px;
+}
+.contact-us-wrapper {
+    position: absolute;
+    top: 10px;
+    left: 1162.18px;
+    border-radius: var(--br-7xs);
+    background-color: var(--color-crimson);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-7xs) var(--padding-smi);
+    text-align: left;
+    color: #fdfff5;
+}
+.header,
+.home {
+    position: absolute;
+}
+.home {
+    top: 16px;
+    left: 703.18px;
+    font-weight: 500;
+}
+.header {
+    top: 43px;
+    left: -0.18px;
+    width: 1440.26px;
+    height: 80px;
+    text-align: center;
+    color: var(--color-white);
+}
+.index-child {
+    position: absolute;
+    top: 2512.75px;
+    left: 164.75px;
+    border-top: 0.5px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1110.5px;
+    height: 0.5px;
+}
+.index1 {
+    position: relative;
+    width: 100%;
+    height: 2526px;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+}
